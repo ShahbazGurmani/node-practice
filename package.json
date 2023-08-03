@@ -1,0 +1,22 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "node practice session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ShahbazGurmani/node-practice.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "shahbaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahbazGurmani/node-practice/issues"
+  },
+  "homepage": "https://github.com/ShahbazGurmani/node-practice#readme"
+}
